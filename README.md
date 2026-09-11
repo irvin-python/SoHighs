@@ -88,7 +88,7 @@ TripSync is an AI-powered collaborative travel planner that helps groups with di
 
 #### 4.1.1 Problem tree
 
-![Img](diagrams/Diagram 4.1.jpeg)
+![Img](diagrams/Diagram-4.1.jpeg)
 
 #### 4.1.2 Brainstorming / Mind Map
 
