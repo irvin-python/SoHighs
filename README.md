@@ -92,23 +92,23 @@ TripSync is an AI-powered collaborative travel planner that helps groups with di
 
 #### 4.1.2 Brainstorming / Mind Map
 
-Diagram 4.2
+![Img](diagrams/Diagram-4.2.jpeg)
 
 Diagram 8.1 starts with the user entering our website that branches out to diagram 8.2 and 8.3
 
-Diagram 4.3
+![Img](diagrams/Diagram-4.3.jpeg)
 
 User flow for group admin
 
-Diagram 4.4
+![Img](diagrams/Diagram-4.4.jpeg)
 
 User flow for group member
 
-Diagram 4.5
+![Img](diagrams/Diagram-4.5.jpeg)
 
 User flow for Journey mode
 
-Diagram 4.6
+![Img](diagrams/Diagram-4.6.jpeg)
 
 ### 4.2 Iteration and Idea Evolution
 
