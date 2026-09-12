@@ -88,27 +88,51 @@ TripSync is an AI-powered collaborative travel planner that helps groups with di
 
 #### 4.1.1 Problem tree
 
-![Img](diagrams/Diagram-4.1.jpeg)
+<p align="center">
+  <img src="diagrams/Diagram-4.1.jpeg" alt="Diagram 4.1">
+  <br>
+  Diagram 4.1
+</p>
 
 #### 4.1.2 Brainstorming / Mind Map
 
-![Img](diagrams/Diagram-4.2.jpeg)
+<p align="center">
+  <img src="diagrams/Diagram-4.2.jpeg" alt="Diagram 4.2">
+  <br>
+  Diagram 4.2
+</p>
 
-Diagram 8.1 starts with the user entering our website that branches out to diagram 8.2 and 8.3
+Diagram 4.3 starts with the user entering our website that branches out to diagram 4.4(group admin), 4.5 (group member) and 4.6 (Journey mode).
 
-![Img](diagrams/Diagram-4.3.jpeg)
+<p align="center">
+  <img src="diagrams/Diagram-4.3.jpeg" alt="Diagram 4.3">
+  <br>
+  Diagram 4.3
+</p>
 
 User flow for group admin
 
-![Img](diagrams/Diagram-4.4.jpeg)
+<p align="center">
+  <img src="diagrams/Diagram-4.4.jpeg" alt="Diagram 4.4">
+  <br>
+  Diagram 4.4
+</p>
 
 User flow for group member
 
-![Img](diagrams/Diagram-4.5.jpeg)
+<p align="center">
+  <img src="diagrams/Diagram-4.5.jpeg" alt="Diagram 4.5">
+  <br>
+  Diagram 4.5
+</p>
 
 User flow for Journey mode
 
-![Img](diagrams/Diagram-4.6.jpeg)
+<p align="center">
+  <img src="diagrams/Diagram-4.6.jpeg" alt="Diagram 4.6">
+  <br>
+  Diagram 4.6
+</p>
 
 ### 4.2 Iteration and Idea Evolution
 
