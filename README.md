@@ -4,7 +4,7 @@ Team: LIM JUN WEI, ERVIN TONG YUAN ZHEN, TAN WEI SIANG, LIM QIN KAI
 
 Problem Statement: Travel Planner
 
-Video Presentation: [Unlisted Youtube Link]
+Video Presentation: https://www.youtube.com/watch?v=vscP-unki-M
 
 Presentation Slides:
 https://www.canva.com/design/DAHU3y7j7vw/WK6gwDNjsfKiSbI-BGutfA/edit?ui=e30
